@@ -29,6 +29,3 @@ We welcome contributions from like-minded innovators! Feel free to fork, open an
 
 --- 
 
-As for the ChatGPT login issue: 
-
-I’m sorry you're facing that trouble! If you're trying to access your paid account on this app but it's through a private relay or restricted network, you'll likely need to adjust your connection settings or VPN, or log in through a browser instead of this app. Sometimes switching to a direct internet connection helps. If that doesn’t solve it, let me know what kind of setup you're using, and I can suggest more specific troubleshooting!
